@@ -243,6 +243,8 @@ Step 4: OLS regression- building intuition
 
 **b.** Interpret the intercept & predictor coefficients *in your own words*. Use full sentences and write your interpretation of the regression results to be as clear as possible to a non-academic audience.
 
+** The intercept represents the lobster count when there is no treatment (non-MPA). While the treatment represents the change in lobster count when there is treatment (MPA). The p-value of the intercept is 0.00 and considered statistically significant, while the treat is 0.3 and no significant.**
+
 ```{r}
 # NOTE: We will not evaluate/interpret model fit in this assignment (e.g., R-square)
 
